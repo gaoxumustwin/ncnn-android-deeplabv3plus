@@ -1,0 +1,1 @@
+D:\Users\XueLi_G\Desktop\test\ncnn-android-deeplabv3plus\app\build\intermediates\cxx\Debug\4x603mn6\obj\arm64-v8a

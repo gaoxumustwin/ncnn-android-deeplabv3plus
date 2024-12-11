@@ -1,0 +1,22 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.tencent.deeplabv3plusncnn' 
+    compileSdk 33
+
+    defaultConfig {
+        applicationId "com.tencent.deeplabv3plusncnn"
+        archivesBaseName = "$applicationId"
+
+        minSdk 24
+    }
+
+    externalNativeBuild {
+        cmake {
+            version "3.10.2"
+            path file('src/main/jni/CMakeLists.txt')
+        }
+    }
+}

@@ -1,0 +1,6 @@
+# ninja log v5
+0	8	0	clean	105624b32668dd86
+0	8	0	clean	105624b32668dd86
+0	480	755612596	CMakeFiles/deeplabv3plusncnn.dir/deeplabv3plusncnn_jni.cpp.o	420d066495890894
+481	657	755612597	D:/Users/XueLi_G/Desktop/test/ncnn-android-deeplabv3plus/app/build/intermediates/cxx/Debug/4x603mn6/obj/x86/libdeeplabv3plusncnn.so	c3a6d8d584b8771b
+1	11	0	clean	105624b32668dd86

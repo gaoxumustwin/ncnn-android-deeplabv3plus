@@ -1,0 +1,1 @@
+D:\Users\XueLi_G\Desktop\test\ncnn-android-deeplabv3plus\app\src\main\jni\CMakeLists.txt

@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\Users\\XueLi_G\\Desktop\\test\\ncnn-android-deeplabv3plus\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\XueLi_G\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Users\\XueLi_G\\Desktop\\test\\ncnn-android-deeplabv3plus\\app\\.cxx\\Debug\\4x603mn6\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\XueLi_G\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Users\\XueLi_G\\Desktop\\test\\ncnn-android-deeplabv3plus\\app\\.cxx\\Debug\\4x603mn6\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "deeplabv3plusncnn-Debug-x86_64": {
+      "buildCommandComponents": [
+        "C:\\Users\\XueLi_G\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Users\\XueLi_G\\Desktop\\test\\ncnn-android-deeplabv3plus\\app\\.cxx\\Debug\\4x603mn6\\x86_64",
+        "deeplabv3plusncnn"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "deeplabv3plusncnn",
+      "output": "D:\\Users\\XueLi_G\\Desktop\\test\\ncnn-android-deeplabv3plus\\app\\build\\intermediates\\cxx\\Debug\\4x603mn6\\obj\\x86_64\\libdeeplabv3plusncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
